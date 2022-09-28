@@ -1,0 +1,21 @@
+{
+  "nombre": "Juan",
+  "apellido": "Torres",
+  "email": "cypress@atenea.net",
+  "sexo": "Male",
+  "telefono": "7137137137",
+  "fechaDeNacimiento": [
+    "September",
+    "1999",
+    "13"
+  ],
+  "hobbies": [
+    "Sports",
+    "Music"
+  ],
+  "materia": "English",
+  "imagen": "my-image.png",
+  "direccion": "212 Wallaby st",
+  "estado": "NCR",
+  "ciudad": "Delhi"
+}
